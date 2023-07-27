@@ -6,6 +6,6 @@ In this paper, we propose a value of information (VoI)-based packet scheduling s
 Software platform
 MATLAB 2019/2020
 # Content 
-The folder Network performance with different packet arrival rates is provided to produuct Fig.5 and Fig.7;  
-The folder Network performance with different numbers of AUVs is provided to produuct Fig.6;  
-The folder Collision probability with vary packet sizes is provided to product Fig.8.
+The folder Network performance with different packet arrival rates is provided to produce Fig.5 and Fig.7;  
+The folder Network performance with different numbers of AUVs is provided to produce Fig.6;  
+The folder Collision probability with vary packet sizes is provided to produce Fig.8.
